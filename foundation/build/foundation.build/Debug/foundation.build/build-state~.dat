@@ -1,0 +1,95 @@
+Tfoundation
+v7
+r0
+t352531486.692265
+cCheck dependencies
+cProcessPCH /var/folders/kG/kGqlNgiJFeCxIZaJ9WRBJ++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/foundation_Prefix-bguizgwygalzgmbdaxkgzmdyhizq/foundation_Prefix.pch.gch foundation_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/foundation.build/Debug/foundation.build/Objects-normal/x86_64/foundation.o /Users/albert710/Desktop/foundation/foundation.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/albert710/Desktop/foundation/build/Debug/foundation normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A600B8400000000000013E6
+t1247808388
+s5094
+
+N/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004E5656FF0000000000B38E90
+t1314281215
+s11767440
+
+N/Users/albert710/Desktop/foundation/build/Debug/foundation
+t1330838686
+s9344
+
+N/Users/albert710/Desktop/foundation/build/foundation.build/Debug/foundation.build/Objects-normal/x86_64/foundation.LinkFileList
+c000000004F52FC9C0000000000000075
+t1330838684
+s117
+
+N/Users/albert710/Desktop/foundation/build/foundation.build/Debug/foundation.build/Objects-normal/x86_64/foundation.o
+t1330838686
+s7264
+
+N/Users/albert710/Desktop/foundation/foundation.m
+c000000004F52FC530000000000000192
+t1330838611
+s402
+i<Foundation/Foundation.h>
+
+N/Users/albert710/Desktop/foundation/foundation_Prefix.pch
+c000000004F52FBDA00000000000000A2
+t1330838490
+s162
+i<Foundation/Foundation.h>
+
+N/var/folders/kG/kGqlNgiJFeCxIZaJ9WRBJ++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/foundation_Prefix-bguizgwygalzgmbdaxkgzmdyhizq/foundation_Prefix.pch.gch
+t1330838686
+s41429776
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies352531484#352531484#0(0"0(0#1#0"8601979776#0"0#
+
+CCompileC build/foundation.build/Debug/foundation.build/Objects-normal/x86_64/foundation.o /Users/albert710/Desktop/foundation/foundation.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s352531486.525288
+e352531486.642571
+r1
+xCompileC
+xbuild/foundation.build/Debug/foundation.build/Objects-normal/x86_64/foundation.o
+x/Users/albert710/Desktop/foundation/foundation.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/albert710/Desktop/foundation/foundation.m: In function 'main':
+o/Users/albert710/Desktop/foundation/foundation.m:5: warning: unused variable 'pool'
+lSLF07#2@56"Compile /Users/albert710/Desktop/foundation/foundation.m352531486#352531486#0(154"/Users/albert710/Desktop/foundation/foundation.m: In function 'main':/Users/albert710/Desktop/foundation/foundation.m:5: warning: unused variable 'pool'1(22@22"Unused variable 'pool'352531486#70#84#0(6@48"/Users/albert710/Desktop/foundation/foundation.m352531411#5#0#5#0#19"unused variable '*'0(0#0#48"/Users/albert710/Desktop/foundation/foundation.m8612359168#1489"    cd /Users/albert710/Desktop/foundation    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/albert710/Desktop/foundation/build/foundation.build/Debug/foundation.build/foundation-generated-files.hmap -I/Users/albert710/Desktop/foundation/build/foundation.build/Debug/foundation.build/foundation-own-target-headers.hmap -I/Users/albert710/Desktop/foundation/build/foundation.build/Debug/foundation.build/foundation-all-target-headers.hmap -iquote /Users/albert710/Desktop/foundation/build/foundation.build/Debug/foundation.build/foundation-project-headers.hmap -F/Users/albert710/Desktop/foundation/build/Debug -I/Users/albert710/Desktop/foundation/build/Debug/include -I/Users/albert710/Desktop/foundation/build/foundation.build/Debug/foundation.build/DerivedSources/x86_64 -I/Users/albert710/Desktop/foundation/build/foundation.build/Debug/foundation.build/DerivedSources -include /var/folders/kG/kGqlNgiJFeCxIZaJ9WRBJ++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/foundation_Prefix-bguizgwygalzgmbdaxkgzmdyhizq/foundation_Prefix.pch -c /Users/albert710/Desktop/foundation/foundation.m -o /Users/albert710/Desktop/foundation/build/foundation.build/Debug/foundation.build/Objects-normal/x86_64/foundation.o0#
+
+CLd /Users/albert710/Desktop/foundation/build/Debug/foundation normal x86_64
+s352531486.642684
+e352531486.692207
+r1
+xLd
+x/Users/albert710/Desktop/foundation/build/Debug/foundation
+xnormal
+xx86_64
+lSLF07#2@63"Link /Users/albert710/Desktop/foundation/build/Debug/foundation352531486#352531486#0(0"0(0#0#0"8620871520#517"    cd /Users/albert710/Desktop/foundation    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/albert710/Desktop/foundation/build/Debug -F/Users/albert710/Desktop/foundation/build/Debug -filelist /Users/albert710/Desktop/foundation/build/foundation.build/Debug/foundation.build/Objects-normal/x86_64/foundation.LinkFileList -mmacosx-version-min=10.6 -framework Foundation -o /Users/albert710/Desktop/foundation/build/Debug/foundation0#
+
+CProcessPCH /var/folders/kG/kGqlNgiJFeCxIZaJ9WRBJ++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/foundation_Prefix-bguizgwygalzgmbdaxkgzmdyhizq/foundation_Prefix.pch.gch foundation_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s352531484.452981
+e352531486.525145
+r1
+xProcessPCH
+x/var/folders/kG/kGqlNgiJFeCxIZaJ9WRBJ++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/foundation_Prefix-bguizgwygalzgmbdaxkgzmdyhizq/foundation_Prefix.pch.gch
+xfoundation_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile foundation_Prefix.pch352531484#352531486#0(0"0(0#0#57"/Users/albert710/Desktop/foundation/foundation_Prefix.pch8619015616#1383"    cd /Users/albert710/Desktop/foundation    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/albert710/Desktop/foundation/build/foundation.build/Debug/foundation.build/foundation-generated-files.hmap -I/Users/albert710/Desktop/foundation/build/foundation.build/Debug/foundation.build/foundation-own-target-headers.hmap -I/Users/albert710/Desktop/foundation/build/foundation.build/Debug/foundation.build/foundation-all-target-headers.hmap -iquote /Users/albert710/Desktop/foundation/build/foundation.build/Debug/foundation.build/foundation-project-headers.hmap -F/Users/albert710/Desktop/foundation/build/Debug -I/Users/albert710/Desktop/foundation/build/Debug/include -I/Users/albert710/Desktop/foundation/build/foundation.build/Debug/foundation.build/DerivedSources/x86_64 -I/Users/albert710/Desktop/foundation/build/foundation.build/Debug/foundation.build/DerivedSources -c /Users/albert710/Desktop/foundation/foundation_Prefix.pch -o /var/folders/kG/kGqlNgiJFeCxIZaJ9WRBJ++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/foundation_Prefix-bguizgwygalzgmbdaxkgzmdyhizq/foundation_Prefix.pch.gch0#
+

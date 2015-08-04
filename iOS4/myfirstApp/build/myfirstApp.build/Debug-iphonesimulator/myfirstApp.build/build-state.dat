@@ -1,0 +1,605 @@
+TmyfirstApp
+v7
+r0
+t356321241.311399
+cCheck dependencies
+cProcessInfoPlistFile "/Users/albert710/Desktop/Programming/Objective C/myfirstApp/build/Debug-iphonesimulator/myfirstApp.app/Info.plist" myfirstApp-Info.plist
+cCompileXIB "/Users/albert710/Desktop/Programming/Objective C/myfirstApp/MainWindow.xib"
+cCompileXIB "/Users/albert710/Desktop/Programming/Objective C/myfirstApp/myfirstAppViewController.xib"
+cCpResource build/Debug-iphonesimulator/myfirstApp.app/default.jpg default.jpg
+cProcessPCH /var/folders/kG/kGqlNgiJFeCxIZaJ9WRBJ++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myfirstApp_Prefix-azedbrtiqxxuoyeylkmjgxffaoar/myfirstApp_Prefix.pch.gch myfirstApp_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/myfirstApp.build/Debug-iphonesimulator/myfirstApp.build/Objects-normal/i386/main.o "/Users/albert710/Desktop/Programming/Objective C/myfirstApp/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/myfirstApp.build/Debug-iphonesimulator/myfirstApp.build/Objects-normal/i386/myfirstAppAppDelegate.o "/Users/albert710/Desktop/Programming/Objective C/myfirstApp/Classes/myfirstAppAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/myfirstApp.build/Debug-iphonesimulator/myfirstApp.build/Objects-normal/i386/myfirstAppViewController.o "/Users/albert710/Desktop/Programming/Objective C/myfirstApp/Classes/myfirstAppViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/albert710/Desktop/Programming/Objective C/myfirstApp/build/Debug-iphonesimulator/myfirstApp.app/myfirstApp" normal i386
+cGenerateDSYMFile "/Users/albert710/Desktop/Programming/Objective C/myfirstApp/build/Debug-iphonesimulator/myfirstApp.app.dSYM" "/Users/albert710/Desktop/Programming/Objective C/myfirstApp/build/Debug-iphonesimulator/myfirstApp.app/myfirstApp"
+cTouch "/Users/albert710/Desktop/Programming/Objective C/myfirstApp/build/Debug-iphonesimulator/myfirstApp.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/Users/albert710/Desktop/Programming/Objective C/iOS4/myfirstApp/Classes/myfirstAppAppDelegate.h
+c000000004F8BD6CD00000000000001F8
+t1334564557
+s504
+i<UIKit/UIKit.h>
+
+N/Users/albert710/Desktop/Programming/Objective C/iOS4/myfirstApp/Classes/myfirstAppAppDelegate.m
+c000000004F8BD6CD0000000000000AC0
+t1334564557
+s2752
+i"myfirstAppAppDelegate.h"
+i"myfirstAppViewController.h"
+
+N/Users/albert710/Desktop/Programming/Objective C/iOS4/myfirstApp/Classes/myfirstAppViewController.h
+c000000004F8BDA170000000000000258
+t1334565399
+s600
+i<UIKit/UIKit.h>
+
+N/Users/albert710/Desktop/Programming/Objective C/iOS4/myfirstApp/Classes/myfirstAppViewController.m
+c000000004F8C663F000000000000074C
+t1334601279
+s1868
+i"myfirstAppViewController.h"
+
+N/Users/albert710/Desktop/Programming/Objective C/iOS4/myfirstApp/MainWindow.xib
+c000000004F8BD6CD0000000000004E4D
+t1334564557
+s20045
+
+N/Users/albert710/Desktop/Programming/Objective C/iOS4/myfirstApp/build/Debug-iphonesimulator/myfirstApp.app
+t1334628441
+s272
+
+N/Users/albert710/Desktop/Programming/Objective C/iOS4/myfirstApp/build/Debug-iphonesimulator/myfirstApp.app.dSYM
+t1334628441
+s102
+
+N/Users/albert710/Desktop/Programming/Objective C/iOS4/myfirstApp/build/Debug-iphonesimulator/myfirstApp.app/Info.plist
+t1334566117
+s603
+
+N/Users/albert710/Desktop/Programming/Objective C/iOS4/myfirstApp/build/Debug-iphonesimulator/myfirstApp.app/MainWindow.nib
+t1334566117
+s1687
+
+N/Users/albert710/Desktop/Programming/Objective C/iOS4/myfirstApp/build/Debug-iphonesimulator/myfirstApp.app/PkgInfo
+t1334566117
+s8
+
+N/Users/albert710/Desktop/Programming/Objective C/iOS4/myfirstApp/build/Debug-iphonesimulator/myfirstApp.app/default.jpg
+t1334566117
+s34149
+
+N/Users/albert710/Desktop/Programming/Objective C/iOS4/myfirstApp/build/Debug-iphonesimulator/myfirstApp.app/myfirstApp
+t1334628441
+s18364
+
+N/Users/albert710/Desktop/Programming/Objective C/iOS4/myfirstApp/build/Debug-iphonesimulator/myfirstApp.app/myfirstAppViewController.nib
+t1334566299
+s4062
+
+N/Users/albert710/Desktop/Programming/Objective C/iOS4/myfirstApp/build/myfirstApp.build/Debug-iphonesimulator/myfirstApp.build/Objects-normal/i386/main.o
+t1334628441
+s6352
+
+N/Users/albert710/Desktop/Programming/Objective C/iOS4/myfirstApp/build/myfirstApp.build/Debug-iphonesimulator/myfirstApp.build/Objects-normal/i386/myfirstApp.LinkFileList
+c000000004F8CD05800000000000001E4
+t1334628440
+s484
+
+N/Users/albert710/Desktop/Programming/Objective C/iOS4/myfirstApp/build/myfirstApp.build/Debug-iphonesimulator/myfirstApp.build/Objects-normal/i386/myfirstAppAppDelegate.o
+t1334628441
+s51600
+
+N/Users/albert710/Desktop/Programming/Objective C/iOS4/myfirstApp/build/myfirstApp.build/Debug-iphonesimulator/myfirstApp.build/Objects-normal/i386/myfirstAppViewController.o
+t1334628441
+s41448
+
+N/Users/albert710/Desktop/Programming/Objective C/iOS4/myfirstApp/default.jpg
+c000000004F8BD7730000000000008565
+t1334564723
+s34149
+
+N/Users/albert710/Desktop/Programming/Objective C/iOS4/myfirstApp/main.m
+c000000004F8BD6CD0000000000000173
+t1334564557
+s371
+i<UIKit/UIKit.h>
+
+N/Users/albert710/Desktop/Programming/Objective C/iOS4/myfirstApp/myfirstAppViewController.xib
+c000000004F8BDD960000000000005D95
+t1334566294
+s23957
+
+N/Users/albert710/Desktop/Programming/Objective C/iOS4/myfirstApp/myfirstApp_Prefix.pch
+c000000004F8BD6CD00000000000000BD
+t1334564557
+s189
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/albert710/Desktop/Programming/Objective C/myfirstApp/Classes/myfirstAppAppDelegate.h
+c000000004F8BD6CD00000000000001F8
+t1334564557
+s504
+i<UIKit/UIKit.h>
+
+N/Users/albert710/Desktop/Programming/Objective C/myfirstApp/Classes/myfirstAppAppDelegate.m
+c000000004F8BD6CD0000000000000AC0
+t1334564557
+s2752
+i"myfirstAppAppDelegate.h"
+i"myfirstAppViewController.h"
+
+N/Users/albert710/Desktop/Programming/Objective C/myfirstApp/Classes/myfirstAppViewController.h
+c000000004F8BDA170000000000000258
+t1334565399
+s600
+i<UIKit/UIKit.h>
+
+N/Users/albert710/Desktop/Programming/Objective C/myfirstApp/Classes/myfirstAppViewController.m
+c000000004F8C663F000000000000074C
+t1334601279
+s1868
+i"myfirstAppViewController.h"
+
+N/Users/albert710/Desktop/Programming/Objective C/myfirstApp/MainWindow.xib
+c000000004F8BD6CD0000000000004E4D
+t1334564557
+s20045
+
+N/Users/albert710/Desktop/Programming/Objective C/myfirstApp/build/Debug-iphonesimulator/myfirstApp.app
+t1334628441
+s272
+
+N/Users/albert710/Desktop/Programming/Objective C/myfirstApp/build/Debug-iphonesimulator/myfirstApp.app.dSYM
+t1334628441
+s102
+
+N/Users/albert710/Desktop/Programming/Objective C/myfirstApp/build/Debug-iphonesimulator/myfirstApp.app/Info.plist
+t1334566117
+s603
+
+N/Users/albert710/Desktop/Programming/Objective C/myfirstApp/build/Debug-iphonesimulator/myfirstApp.app/MainWindow.nib
+t1334566117
+s1687
+
+N/Users/albert710/Desktop/Programming/Objective C/myfirstApp/build/Debug-iphonesimulator/myfirstApp.app/PkgInfo
+t1334566117
+s8
+
+N/Users/albert710/Desktop/Programming/Objective C/myfirstApp/build/Debug-iphonesimulator/myfirstApp.app/default.jpg
+t1334566117
+s34149
+
+N/Users/albert710/Desktop/Programming/Objective C/myfirstApp/build/Debug-iphonesimulator/myfirstApp.app/myfirstApp
+t1334628441
+s18364
+
+N/Users/albert710/Desktop/Programming/Objective C/myfirstApp/build/Debug-iphonesimulator/myfirstApp.app/myfirstAppViewController.nib
+t1334566299
+s4062
+
+N/Users/albert710/Desktop/Programming/Objective C/myfirstApp/build/myfirstApp.build/Debug-iphonesimulator/myfirstApp.build/Objects-normal/i386/main.o
+t1334628441
+s6352
+
+N/Users/albert710/Desktop/Programming/Objective C/myfirstApp/build/myfirstApp.build/Debug-iphonesimulator/myfirstApp.build/Objects-normal/i386/myfirstApp.LinkFileList
+c000000004F8CD05800000000000001E4
+t1334628440
+s484
+
+N/Users/albert710/Desktop/Programming/Objective C/myfirstApp/build/myfirstApp.build/Debug-iphonesimulator/myfirstApp.build/Objects-normal/i386/myfirstAppAppDelegate.o
+t1334628441
+s51600
+
+N/Users/albert710/Desktop/Programming/Objective C/myfirstApp/build/myfirstApp.build/Debug-iphonesimulator/myfirstApp.build/Objects-normal/i386/myfirstAppViewController.o
+t1334628441
+s41448
+
+N/Users/albert710/Desktop/Programming/Objective C/myfirstApp/default.jpg
+c000000004F8BD7730000000000008565
+t1334564723
+s34149
+
+N/Users/albert710/Desktop/Programming/Objective C/myfirstApp/main.m
+c000000004F8BD6CD0000000000000173
+t1334564557
+s371
+i<UIKit/UIKit.h>
+
+N/Users/albert710/Desktop/Programming/Objective C/myfirstApp/myfirstAppViewController.xib
+c000000004F8BDD960000000000005D95
+t1334566294
+s23957
+
+N/Users/albert710/Desktop/Programming/Objective C/myfirstApp/myfirstApp_Prefix.pch
+c000000004F8BD6CD00000000000000BD
+t1334564557
+s189
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/albert710/Desktop/myfirstApp/Classes/myfirstAppAppDelegate.h
+c000000004F8BD6CD00000000000001F8
+t1334564557
+s504
+i<UIKit/UIKit.h>
+
+N/Users/albert710/Desktop/myfirstApp/Classes/myfirstAppAppDelegate.m
+c000000004F8BD6CD0000000000000AC0
+t1334564557
+s2752
+i"myfirstAppAppDelegate.h"
+i"myfirstAppViewController.h"
+
+N/Users/albert710/Desktop/myfirstApp/Classes/myfirstAppViewController.h
+c000000004F8BDA170000000000000258
+t1334565399
+s600
+i<UIKit/UIKit.h>
+
+N/Users/albert710/Desktop/myfirstApp/Classes/myfirstAppViewController.m
+c000000004F8BDA8E0000000000000749
+t1334565518
+s1865
+i"myfirstAppViewController.h"
+
+N/Users/albert710/Desktop/myfirstApp/MainWindow.xib
+c000000004F8BD6CD0000000000004E4D
+t1334564557
+s20045
+
+N/Users/albert710/Desktop/myfirstApp/build/Debug-iphonesimulator/myfirstApp.app
+t1334566299
+s272
+
+N/Users/albert710/Desktop/myfirstApp/build/Debug-iphonesimulator/myfirstApp.app.dSYM
+t1334566119
+s102
+
+N/Users/albert710/Desktop/myfirstApp/build/Debug-iphonesimulator/myfirstApp.app/Info.plist
+t1334566117
+s603
+
+N/Users/albert710/Desktop/myfirstApp/build/Debug-iphonesimulator/myfirstApp.app/MainWindow.nib
+t1334566117
+s1687
+
+N/Users/albert710/Desktop/myfirstApp/build/Debug-iphonesimulator/myfirstApp.app/PkgInfo
+t1334566117
+s8
+
+N/Users/albert710/Desktop/myfirstApp/build/Debug-iphonesimulator/myfirstApp.app/default.jpg
+t1334566117
+s34149
+
+N/Users/albert710/Desktop/myfirstApp/build/Debug-iphonesimulator/myfirstApp.app/myfirstApp
+t1334566119
+s18220
+
+N/Users/albert710/Desktop/myfirstApp/build/Debug-iphonesimulator/myfirstApp.app/myfirstAppViewController.nib
+t1334566299
+s4062
+
+N/Users/albert710/Desktop/myfirstApp/build/myfirstApp.build/Debug-iphonesimulator/myfirstApp.build/Objects-normal/i386/main.o
+t1334566119
+s6304
+
+N/Users/albert710/Desktop/myfirstApp/build/myfirstApp.build/Debug-iphonesimulator/myfirstApp.build/Objects-normal/i386/myfirstApp.LinkFileList
+c000000004F8BDCE5000000000000019C
+t1334566117
+s412
+
+N/Users/albert710/Desktop/myfirstApp/build/myfirstApp.build/Debug-iphonesimulator/myfirstApp.build/Objects-normal/i386/myfirstAppAppDelegate.o
+t1334566119
+s51552
+
+N/Users/albert710/Desktop/myfirstApp/build/myfirstApp.build/Debug-iphonesimulator/myfirstApp.build/Objects-normal/i386/myfirstAppViewController.o
+t1334566119
+s41400
+
+N/Users/albert710/Desktop/myfirstApp/default.jpg
+c000000004F8BD7730000000000008565
+t1334564723
+s34149
+
+N/Users/albert710/Desktop/myfirstApp/main.m
+c000000004F8BD6CD0000000000000173
+t1334564557
+s371
+i<UIKit/UIKit.h>
+
+N/Users/albert710/Desktop/myfirstApp/myfirstAppViewController.xib
+c000000004F8BDD960000000000005D95
+t1334566294
+s23957
+
+N/Users/albert710/Desktop/myfirstApp/myfirstApp_Prefix.pch
+c000000004F8BD6CD00000000000000BD
+t1334564557
+s189
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/var/folders/kG/kGqlNgiJFeCxIZaJ9WRBJ++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myfirstApp_Prefix-aydeusgnfoluxbgodsejuggmdwpu/myfirstApp_Prefix.pch.gch
+t1334566119
+s15814064
+
+N/var/folders/kG/kGqlNgiJFeCxIZaJ9WRBJ++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myfirstApp_Prefix-azedbrtiqxxuoyeylkmjgxffaoar/myfirstApp_Prefix.pch.gch
+t1334628441
+s15814064
+
+N/var/folders/r4/pv2spbkn3_7g_kb6_kw9td_h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/myfirstApp_Prefix-fegcjsiaibtjqmcosxwykiezzppf/myfirstApp_Prefix.pch.gch
+t2
+s0
+
+NmyfirstApp-Info.plist
+c000000004F8BD6CD000000000000038D
+t1334564557
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies356321240#356321240#0(0"0(0#1#0"8605077888#0"0#
+
+CCompileC build/myfirstApp.build/Debug-iphonesimulator/myfirstApp.build/Objects-normal/i386/main.o "/Users/albert710/Desktop/Programming/Objective C/iOS4/myfirstApp/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/myfirstApp.build/Debug-iphonesimulator/myfirstApp.build/Objects-normal/i386/main.o "/Users/albert710/Desktop/Programming/Objective C/myfirstApp/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s356321241.124952
+e356321241.211647
+r1
+xCompileC
+xbuild/myfirstApp.build/Debug-iphonesimulator/myfirstApp.build/Objects-normal/i386/main.o
+x/Users/albert710/Desktop/Programming/Objective C/myfirstApp/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/albert710/Desktop/Programming/Objective C/myfirstApp/main.m356321241#356321241#0(0"0(0#0#66"/Users/albert710/Desktop/Programming/Objective C/myfirstApp/main.m8598662624#2227"    cd "/Users/albert710/Desktop/Programming/Objective C/myfirstApp"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/albert710/Desktop/Programming/Objective C/myfirstApp/build/myfirstApp.build/Debug-iphonesimulator/myfirstApp.build/myfirstApp-generated-files.hmap" "-I/Users/albert710/Desktop/Programming/Objective C/myfirstApp/build/myfirstApp.build/Debug-iphonesimulator/myfirstApp.build/myfirstApp-own-target-headers.hmap" "-I/Users/albert710/Desktop/Programming/Objective C/myfirstApp/build/myfirstApp.build/Debug-iphonesimulator/myfirstApp.build/myfirstApp-all-target-headers.hmap" -iquote "/Users/albert710/Desktop/Programming/Objective C/myfirstApp/build/myfirstApp.build/Debug-iphonesimulator/myfirstApp.build/myfirstApp-project-headers.hmap" "-F/Users/albert710/Desktop/Programming/Objective C/myfirstApp/build/Debug-iphonesimulator" "-I/Users/albert710/Desktop/Programming/Objective C/myfirstApp/build/Debug-iphonesimulator/include" "-I/Users/albert710/Desktop/Programming/Objective C/myfirstApp/build/myfirstApp.build/Debug-iphonesimulator/myfirstApp.build/DerivedSources/i386" "-I/Users/albert710/Desktop/Programming/Objective C/myfirstApp/build/myfirstApp.build/Debug-iphonesimulator/myfirstApp.build/DerivedSources" -include /var/folders/kG/kGqlNgiJFeCxIZaJ9WRBJ++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myfirstApp_Prefix-azedbrtiqxxuoyeylkmjgxffaoar/myfirstApp_Prefix.pch -c "/Users/albert710/Desktop/Programming/Objective C/myfirstApp/main.m" -o "/Users/albert710/Desktop/Programming/Objective C/myfirstApp/build/myfirstApp.build/Debug-iphonesimulator/myfirstApp.build/Objects-normal/i386/main.o"0#
+
+CCompileC build/myfirstApp.build/Debug-iphonesimulator/myfirstApp.build/Objects-normal/i386/main.o /Users/albert710/Desktop/myfirstApp/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s356258919.310081
+e356258919.416514
+r1
+xCompileC
+xbuild/myfirstApp.build/Debug-iphonesimulator/myfirstApp.build/Objects-normal/i386/main.o
+x/Users/albert710/Desktop/myfirstApp/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@50"Compile /Users/albert710/Desktop/myfirstApp/main.m356258919#356258919#0(0"0(0#0#42"/Users/albert710/Desktop/myfirstApp/main.m8603972768#1941"    cd /Users/albert710/Desktop/myfirstApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/albert710/Desktop/myfirstApp/build/myfirstApp.build/Debug-iphonesimulator/myfirstApp.build/myfirstApp-generated-files.hmap -I/Users/albert710/Desktop/myfirstApp/build/myfirstApp.build/Debug-iphonesimulator/myfirstApp.build/myfirstApp-own-target-headers.hmap -I/Users/albert710/Desktop/myfirstApp/build/myfirstApp.build/Debug-iphonesimulator/myfirstApp.build/myfirstApp-all-target-headers.hmap -iquote /Users/albert710/Desktop/myfirstApp/build/myfirstApp.build/Debug-iphonesimulator/myfirstApp.build/myfirstApp-project-headers.hmap -F/Users/albert710/Desktop/myfirstApp/build/Debug-iphonesimulator -I/Users/albert710/Desktop/myfirstApp/build/Debug-iphonesimulator/include -I/Users/albert710/Desktop/myfirstApp/build/myfirstApp.build/Debug-iphonesimulator/myfirstApp.build/DerivedSources/i386 -I/Users/albert710/Desktop/myfirstApp/build/myfirstApp.build/Debug-iphonesimulator/myfirstApp.build/DerivedSources -include /var/folders/kG/kGqlNgiJFeCxIZaJ9WRBJ++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myfirstApp_Prefix-aydeusgnfoluxbgodsejuggmdwpu/myfirstApp_Prefix.pch -c /Users/albert710/Desktop/myfirstApp/main.m -o /Users/albert710/Desktop/myfirstApp/build/myfirstApp.build/Debug-iphonesimulator/myfirstApp.build/Objects-normal/i386/main.o0#
+
+CCompileC build/myfirstApp.build/Debug-iphonesimulator/myfirstApp.build/Objects-normal/i386/myfirstAppAppDelegate.o "/Users/albert710/Desktop/Programming/Objective C/iOS4/myfirstApp/Classes/myfirstAppAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/myfirstApp.build/Debug-iphonesimulator/myfirstApp.build/Objects-normal/i386/myfirstAppAppDelegate.o "/Users/albert710/Desktop/Programming/Objective C/myfirstApp/Classes/myfirstAppAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s356321241.125977
+e356321241.239388
+r1
+xCompileC
+xbuild/myfirstApp.build/Debug-iphonesimulator/myfirstApp.build/Objects-normal/i386/myfirstAppAppDelegate.o
+x/Users/albert710/Desktop/Programming/Objective C/myfirstApp/Classes/myfirstAppAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@99"Compile /Users/albert710/Desktop/Programming/Objective C/myfirstApp/Classes/myfirstAppAppDelegate.m356321241#356321241#0(0"0(0#0#91"/Users/albert710/Desktop/Programming/Objective C/myfirstApp/Classes/myfirstAppAppDelegate.m8598924832#2269"    cd "/Users/albert710/Desktop/Programming/Objective C/myfirstApp"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/albert710/Desktop/Programming/Objective C/myfirstApp/build/myfirstApp.build/Debug-iphonesimulator/myfirstApp.build/myfirstApp-generated-files.hmap" "-I/Users/albert710/Desktop/Programming/Objective C/myfirstApp/build/myfirstApp.build/Debug-iphonesimulator/myfirstApp.build/myfirstApp-own-target-headers.hmap" "-I/Users/albert710/Desktop/Programming/Objective C/myfirstApp/build/myfirstApp.build/Debug-iphonesimulator/myfirstApp.build/myfirstApp-all-target-headers.hmap" -iquote "/Users/albert710/Desktop/Programming/Objective C/myfirstApp/build/myfirstApp.build/Debug-iphonesimulator/myfirstApp.build/myfirstApp-project-headers.hmap" "-F/Users/albert710/Desktop/Programming/Objective C/myfirstApp/build/Debug-iphonesimulator" "-I/Users/albert710/Desktop/Programming/Objective C/myfirstApp/build/Debug-iphonesimulator/include" "-I/Users/albert710/Desktop/Programming/Objective C/myfirstApp/build/myfirstApp.build/Debug-iphonesimulator/myfirstApp.build/DerivedSources/i386" "-I/Users/albert710/Desktop/Programming/Objective C/myfirstApp/build/myfirstApp.build/Debug-iphonesimulator/myfirstApp.build/DerivedSources" -include /var/folders/kG/kGqlNgiJFeCxIZaJ9WRBJ++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myfirstApp_Prefix-azedbrtiqxxuoyeylkmjgxffaoar/myfirstApp_Prefix.pch -c "/Users/albert710/Desktop/Programming/Objective C/myfirstApp/Classes/myfirstAppAppDelegate.m" -o "/Users/albert710/Desktop/Programming/Objective C/myfirstApp/build/myfirstApp.build/Debug-iphonesimulator/myfirstApp.build/Objects-normal/i386/myfirstAppAppDelegate.o"0#
+
+CCompileC build/myfirstApp.build/Debug-iphonesimulator/myfirstApp.build/Objects-normal/i386/myfirstAppAppDelegate.o /Users/albert710/Desktop/myfirstApp/Classes/myfirstAppAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s356258919.310966
+e356258919.445029
+r1
+xCompileC
+xbuild/myfirstApp.build/Debug-iphonesimulator/myfirstApp.build/Objects-normal/i386/myfirstAppAppDelegate.o
+x/Users/albert710/Desktop/myfirstApp/Classes/myfirstAppAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/albert710/Desktop/myfirstApp/Classes/myfirstAppAppDelegate.m356258919#356258919#0(0"0(0#0#67"/Users/albert710/Desktop/myfirstApp/Classes/myfirstAppAppDelegate.m8614696480#1983"    cd /Users/albert710/Desktop/myfirstApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/albert710/Desktop/myfirstApp/build/myfirstApp.build/Debug-iphonesimulator/myfirstApp.build/myfirstApp-generated-files.hmap -I/Users/albert710/Desktop/myfirstApp/build/myfirstApp.build/Debug-iphonesimulator/myfirstApp.build/myfirstApp-own-target-headers.hmap -I/Users/albert710/Desktop/myfirstApp/build/myfirstApp.build/Debug-iphonesimulator/myfirstApp.build/myfirstApp-all-target-headers.hmap -iquote /Users/albert710/Desktop/myfirstApp/build/myfirstApp.build/Debug-iphonesimulator/myfirstApp.build/myfirstApp-project-headers.hmap -F/Users/albert710/Desktop/myfirstApp/build/Debug-iphonesimulator -I/Users/albert710/Desktop/myfirstApp/build/Debug-iphonesimulator/include -I/Users/albert710/Desktop/myfirstApp/build/myfirstApp.build/Debug-iphonesimulator/myfirstApp.build/DerivedSources/i386 -I/Users/albert710/Desktop/myfirstApp/build/myfirstApp.build/Debug-iphonesimulator/myfirstApp.build/DerivedSources -include /var/folders/kG/kGqlNgiJFeCxIZaJ9WRBJ++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myfirstApp_Prefix-aydeusgnfoluxbgodsejuggmdwpu/myfirstApp_Prefix.pch -c /Users/albert710/Desktop/myfirstApp/Classes/myfirstAppAppDelegate.m -o /Users/albert710/Desktop/myfirstApp/build/myfirstApp.build/Debug-iphonesimulator/myfirstApp.build/Objects-normal/i386/myfirstAppAppDelegate.o0#
+
+CCompileC build/myfirstApp.build/Debug-iphonesimulator/myfirstApp.build/Objects-normal/i386/myfirstAppViewController.o "/Users/albert710/Desktop/Programming/Objective C/iOS4/myfirstApp/Classes/myfirstAppViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/myfirstApp.build/Debug-iphonesimulator/myfirstApp.build/Objects-normal/i386/myfirstAppViewController.o "/Users/albert710/Desktop/Programming/Objective C/myfirstApp/Classes/myfirstAppViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s356321241.126947
+e356321241.225415
+r1
+xCompileC
+xbuild/myfirstApp.build/Debug-iphonesimulator/myfirstApp.build/Objects-normal/i386/myfirstAppViewController.o
+x/Users/albert710/Desktop/Programming/Objective C/myfirstApp/Classes/myfirstAppViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@102"Compile /Users/albert710/Desktop/Programming/Objective C/myfirstApp/Classes/myfirstAppViewController.m356321241#356321241#0(0"0(0#0#94"/Users/albert710/Desktop/Programming/Objective C/myfirstApp/Classes/myfirstAppViewController.m8602765088#2275"    cd "/Users/albert710/Desktop/Programming/Objective C/myfirstApp"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/albert710/Desktop/Programming/Objective C/myfirstApp/build/myfirstApp.build/Debug-iphonesimulator/myfirstApp.build/myfirstApp-generated-files.hmap" "-I/Users/albert710/Desktop/Programming/Objective C/myfirstApp/build/myfirstApp.build/Debug-iphonesimulator/myfirstApp.build/myfirstApp-own-target-headers.hmap" "-I/Users/albert710/Desktop/Programming/Objective C/myfirstApp/build/myfirstApp.build/Debug-iphonesimulator/myfirstApp.build/myfirstApp-all-target-headers.hmap" -iquote "/Users/albert710/Desktop/Programming/Objective C/myfirstApp/build/myfirstApp.build/Debug-iphonesimulator/myfirstApp.build/myfirstApp-project-headers.hmap" "-F/Users/albert710/Desktop/Programming/Objective C/myfirstApp/build/Debug-iphonesimulator" "-I/Users/albert710/Desktop/Programming/Objective C/myfirstApp/build/Debug-iphonesimulator/include" "-I/Users/albert710/Desktop/Programming/Objective C/myfirstApp/build/myfirstApp.build/Debug-iphonesimulator/myfirstApp.build/DerivedSources/i386" "-I/Users/albert710/Desktop/Programming/Objective C/myfirstApp/build/myfirstApp.build/Debug-iphonesimulator/myfirstApp.build/DerivedSources" -include /var/folders/kG/kGqlNgiJFeCxIZaJ9WRBJ++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myfirstApp_Prefix-azedbrtiqxxuoyeylkmjgxffaoar/myfirstApp_Prefix.pch -c "/Users/albert710/Desktop/Programming/Objective C/myfirstApp/Classes/myfirstAppViewController.m" -o "/Users/albert710/Desktop/Programming/Objective C/myfirstApp/build/myfirstApp.build/Debug-iphonesimulator/myfirstApp.build/Objects-normal/i386/myfirstAppViewController.o"0#
+
+CCompileC build/myfirstApp.build/Debug-iphonesimulator/myfirstApp.build/Objects-normal/i386/myfirstAppViewController.o /Users/albert710/Desktop/myfirstApp/Classes/myfirstAppViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s356258919.311719
+e356258919.437810
+r1
+xCompileC
+xbuild/myfirstApp.build/Debug-iphonesimulator/myfirstApp.build/Objects-normal/i386/myfirstAppViewController.o
+x/Users/albert710/Desktop/myfirstApp/Classes/myfirstAppViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/albert710/Desktop/myfirstApp/Classes/myfirstAppViewController.m356258919#356258919#0(0"0(0#0#70"/Users/albert710/Desktop/myfirstApp/Classes/myfirstAppViewController.m8613767808#1989"    cd /Users/albert710/Desktop/myfirstApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/albert710/Desktop/myfirstApp/build/myfirstApp.build/Debug-iphonesimulator/myfirstApp.build/myfirstApp-generated-files.hmap -I/Users/albert710/Desktop/myfirstApp/build/myfirstApp.build/Debug-iphonesimulator/myfirstApp.build/myfirstApp-own-target-headers.hmap -I/Users/albert710/Desktop/myfirstApp/build/myfirstApp.build/Debug-iphonesimulator/myfirstApp.build/myfirstApp-all-target-headers.hmap -iquote /Users/albert710/Desktop/myfirstApp/build/myfirstApp.build/Debug-iphonesimulator/myfirstApp.build/myfirstApp-project-headers.hmap -F/Users/albert710/Desktop/myfirstApp/build/Debug-iphonesimulator -I/Users/albert710/Desktop/myfirstApp/build/Debug-iphonesimulator/include -I/Users/albert710/Desktop/myfirstApp/build/myfirstApp.build/Debug-iphonesimulator/myfirstApp.build/DerivedSources/i386 -I/Users/albert710/Desktop/myfirstApp/build/myfirstApp.build/Debug-iphonesimulator/myfirstApp.build/DerivedSources -include /var/folders/kG/kGqlNgiJFeCxIZaJ9WRBJ++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myfirstApp_Prefix-aydeusgnfoluxbgodsejuggmdwpu/myfirstApp_Prefix.pch -c /Users/albert710/Desktop/myfirstApp/Classes/myfirstAppViewController.m -o /Users/albert710/Desktop/myfirstApp/build/myfirstApp.build/Debug-iphonesimulator/myfirstApp.build/Objects-normal/i386/myfirstAppViewController.o0#
+
+CCompileXIB "/Users/albert710/Desktop/Programming/Objective C/iOS4/myfirstApp/MainWindow.xib"
+r0
+
+CCompileXIB "/Users/albert710/Desktop/Programming/Objective C/iOS4/myfirstApp/myfirstAppViewController.xib"
+r0
+
+CCompileXIB "/Users/albert710/Desktop/Programming/Objective C/myfirstApp/MainWindow.xib"
+r0
+
+CCompileXIB "/Users/albert710/Desktop/Programming/Objective C/myfirstApp/myfirstAppViewController.xib"
+r0
+
+CCompileXIB /Users/albert710/Desktop/myfirstApp/MainWindow.xib
+s356258917.344891
+e356258917.966238
+r1
+xCompileXIB
+x/Users/albert710/Desktop/myfirstApp/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib356258917#356258917#0(0"0(0#0#50"/Users/albert710/Desktop/myfirstApp/MainWindow.xib8611639712#564"    cd /Users/albert710/Desktop/myfirstApp    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/albert710/Desktop/myfirstApp/build/Debug-iphonesimulator/myfirstApp.app/MainWindow.nib /Users/albert710/Desktop/myfirstApp/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/albert710/Desktop/myfirstApp/myfirstAppViewController.xib
+s356259098.590322
+e356259099.390208
+r1
+xCompileXIB
+x/Users/albert710/Desktop/myfirstApp/myfirstAppViewController.xib
+lSLF07#2@39"CompileXIB myfirstAppViewController.xib356259098#356259099#0(0"0(0#0#64"/Users/albert710/Desktop/myfirstApp/myfirstAppViewController.xib8612753248#592"    cd /Users/albert710/Desktop/myfirstApp    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/albert710/Desktop/myfirstApp/build/Debug-iphonesimulator/myfirstApp.app/myfirstAppViewController.nib /Users/albert710/Desktop/myfirstApp/myfirstAppViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCpResource build/Debug-iphonesimulator/myfirstApp.app/default.jpg default.jpg
+s356258917.376267
+e356258917.485721
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/myfirstApp.app/default.jpg
+xdefault.jpg
+lSLF07#2@16"Copy default.jpg356258917#356258917#0(0"0(0#0#47"/Users/albert710/Desktop/myfirstApp/default.jpg8615215776#463"    cd /Users/albert710/Desktop/myfirstApp    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/albert710/Desktop/myfirstApp/default.jpg /Users/albert710/Desktop/myfirstApp/build/Debug-iphonesimulator/myfirstApp.app0#
+
+CGenerateDSYMFile "/Users/albert710/Desktop/Programming/Objective C/iOS4/myfirstApp/build/Debug-iphonesimulator/myfirstApp.app.dSYM" "/Users/albert710/Desktop/Programming/Objective C/iOS4/myfirstApp/build/Debug-iphonesimulator/myfirstApp.app/myfirstApp"
+r0
+
+CGenerateDSYMFile "/Users/albert710/Desktop/Programming/Objective C/myfirstApp/build/Debug-iphonesimulator/myfirstApp.app.dSYM" "/Users/albert710/Desktop/Programming/Objective C/myfirstApp/build/Debug-iphonesimulator/myfirstApp.app/myfirstApp"
+s356321241.267924
+e356321241.295723
+r1
+xGenerateDSYMFile
+x/Users/albert710/Desktop/Programming/Objective C/myfirstApp/build/Debug-iphonesimulator/myfirstApp.app.dSYM
+x/Users/albert710/Desktop/Programming/Objective C/myfirstApp/build/Debug-iphonesimulator/myfirstApp.app/myfirstApp
+lSLF07#2@118"GenerateDSYMFile build/Debug-iphonesimulator/myfirstApp.app.dSYM build/Debug-iphonesimulator/myfirstApp.app/myfirstApp356321241#356321241#0(0"0(0#0#113"/Users/albert710/Desktop/Programming/Objective C/myfirstApp/build/Debug-iphonesimulator/myfirstApp.app/myfirstApp8600875264#461"    cd "/Users/albert710/Desktop/Programming/Objective C/myfirstApp"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/albert710/Desktop/Programming/Objective C/myfirstApp/build/Debug-iphonesimulator/myfirstApp.app/myfirstApp" -o "/Users/albert710/Desktop/Programming/Objective C/myfirstApp/build/Debug-iphonesimulator/myfirstApp.app.dSYM"0#
+
+CGenerateDSYMFile /Users/albert710/Desktop/myfirstApp/build/Debug-iphonesimulator/myfirstApp.app.dSYM /Users/albert710/Desktop/myfirstApp/build/Debug-iphonesimulator/myfirstApp.app/myfirstApp
+s356258919.740209
+e356258919.808172
+r1
+xGenerateDSYMFile
+x/Users/albert710/Desktop/myfirstApp/build/Debug-iphonesimulator/myfirstApp.app.dSYM
+x/Users/albert710/Desktop/myfirstApp/build/Debug-iphonesimulator/myfirstApp.app/myfirstApp
+lSLF07#2@118"GenerateDSYMFile build/Debug-iphonesimulator/myfirstApp.app.dSYM build/Debug-iphonesimulator/myfirstApp.app/myfirstApp356258919#356258919#0(0"0(0#0#89"/Users/albert710/Desktop/myfirstApp/build/Debug-iphonesimulator/myfirstApp.app/myfirstApp8604014720#383"    cd /Users/albert710/Desktop/myfirstApp    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/albert710/Desktop/myfirstApp/build/Debug-iphonesimulator/myfirstApp.app/myfirstApp -o /Users/albert710/Desktop/myfirstApp/build/Debug-iphonesimulator/myfirstApp.app.dSYM0#
+
+CLd "/Users/albert710/Desktop/Programming/Objective C/iOS4/myfirstApp/build/Debug-iphonesimulator/myfirstApp.app/myfirstApp" normal i386
+r0
+
+CLd "/Users/albert710/Desktop/Programming/Objective C/myfirstApp/build/Debug-iphonesimulator/myfirstApp.app/myfirstApp" normal i386
+s356321241.239475
+e356321241.267781
+r1
+xLd
+x/Users/albert710/Desktop/Programming/Objective C/myfirstApp/build/Debug-iphonesimulator/myfirstApp.app/myfirstApp
+xnormal
+xi386
+lSLF07#2@118"Link /Users/albert710/Desktop/Programming/Objective C/myfirstApp/build/Debug-iphonesimulator/myfirstApp.app/myfirstApp356321241#356321241#0(0"0(0#0#0"8603422112#1030"    cd "/Users/albert710/Desktop/Programming/Objective C/myfirstApp"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk "-L/Users/albert710/Desktop/Programming/Objective C/myfirstApp/build/Debug-iphonesimulator" "-F/Users/albert710/Desktop/Programming/Objective C/myfirstApp/build/Debug-iphonesimulator" -filelist "/Users/albert710/Desktop/Programming/Objective C/myfirstApp/build/myfirstApp.build/Debug-iphonesimulator/myfirstApp.build/Objects-normal/i386/myfirstApp.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/albert710/Desktop/Programming/Objective C/myfirstApp/build/Debug-iphonesimulator/myfirstApp.app/myfirstApp"0#
+
+CLd /Users/albert710/Desktop/myfirstApp/build/Debug-iphonesimulator/myfirstApp.app/myfirstApp normal i386
+s356258919.445110
+e356258919.740107
+r1
+xLd
+x/Users/albert710/Desktop/myfirstApp/build/Debug-iphonesimulator/myfirstApp.app/myfirstApp
+xnormal
+xi386
+lSLF07#2@94"Link /Users/albert710/Desktop/myfirstApp/build/Debug-iphonesimulator/myfirstApp.app/myfirstApp356258919#356258919#0(0"0(0#0#0"8612174080#900"    cd /Users/albert710/Desktop/myfirstApp    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/Users/albert710/Desktop/myfirstApp/build/Debug-iphonesimulator -F/Users/albert710/Desktop/myfirstApp/build/Debug-iphonesimulator -filelist /Users/albert710/Desktop/myfirstApp/build/myfirstApp.build/Debug-iphonesimulator/myfirstApp.build/Objects-normal/i386/myfirstApp.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/albert710/Desktop/myfirstApp/build/Debug-iphonesimulator/myfirstApp.app/myfirstApp0#
+
+CProcessInfoPlistFile "/Users/albert710/Desktop/Programming/Objective C/iOS4/myfirstApp/build/Debug-iphonesimulator/myfirstApp.app/Info.plist" myfirstApp-Info.plist
+r0
+
+CProcessInfoPlistFile "/Users/albert710/Desktop/Programming/Objective C/myfirstApp/build/Debug-iphonesimulator/myfirstApp.app/Info.plist" myfirstApp-Info.plist
+r0
+
+CProcessInfoPlistFile /Users/albert710/Desktop/myfirstApp/build/Debug-iphonesimulator/myfirstApp.app/Info.plist myfirstApp-Info.plist
+s356258917.249148
+e356258917.344801
+r1
+xProcessInfoPlistFile
+x/Users/albert710/Desktop/myfirstApp/build/Debug-iphonesimulator/myfirstApp.app/Info.plist
+xmyfirstApp-Info.plist
+lSLF07#2@29"Process myfirstApp-Info.plist356258917#356258917#0(0"0(0#0#57"/Users/albert710/Desktop/myfirstApp/myfirstApp-Info.plist32088624093986912#479"    cd /Users/albert710/Desktop/myfirstApp    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility myfirstApp-Info.plist -genpkginfo /Users/albert710/Desktop/myfirstApp/build/Debug-iphonesimulator/myfirstApp.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/albert710/Desktop/myfirstApp/build/Debug-iphonesimulator/myfirstApp.app/Info.plist0#
+
+CProcessPCH /var/folders/kG/kGqlNgiJFeCxIZaJ9WRBJ++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myfirstApp_Prefix-aydeusgnfoluxbgodsejuggmdwpu/myfirstApp_Prefix.pch.gch myfirstApp_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s356258917.966463
+e356258919.309882
+r1
+xProcessPCH
+x/var/folders/kG/kGqlNgiJFeCxIZaJ9WRBJ++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myfirstApp_Prefix-aydeusgnfoluxbgodsejuggmdwpu/myfirstApp_Prefix.pch.gch
+xmyfirstApp_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile myfirstApp_Prefix.pch356258917#356258919#0(0"0(0#0#57"/Users/albert710/Desktop/myfirstApp/myfirstApp_Prefix.pch8599548128#1833"    cd /Users/albert710/Desktop/myfirstApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/albert710/Desktop/myfirstApp/build/myfirstApp.build/Debug-iphonesimulator/myfirstApp.build/myfirstApp-generated-files.hmap -I/Users/albert710/Desktop/myfirstApp/build/myfirstApp.build/Debug-iphonesimulator/myfirstApp.build/myfirstApp-own-target-headers.hmap -I/Users/albert710/Desktop/myfirstApp/build/myfirstApp.build/Debug-iphonesimulator/myfirstApp.build/myfirstApp-all-target-headers.hmap -iquote /Users/albert710/Desktop/myfirstApp/build/myfirstApp.build/Debug-iphonesimulator/myfirstApp.build/myfirstApp-project-headers.hmap -F/Users/albert710/Desktop/myfirstApp/build/Debug-iphonesimulator -I/Users/albert710/Desktop/myfirstApp/build/Debug-iphonesimulator/include -I/Users/albert710/Desktop/myfirstApp/build/myfirstApp.build/Debug-iphonesimulator/myfirstApp.build/DerivedSources/i386 -I/Users/albert710/Desktop/myfirstApp/build/myfirstApp.build/Debug-iphonesimulator/myfirstApp.build/DerivedSources -c /Users/albert710/Desktop/myfirstApp/myfirstApp_Prefix.pch -o /var/folders/kG/kGqlNgiJFeCxIZaJ9WRBJ++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myfirstApp_Prefix-aydeusgnfoluxbgodsejuggmdwpu/myfirstApp_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/kG/kGqlNgiJFeCxIZaJ9WRBJ++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myfirstApp_Prefix-azedbrtiqxxuoyeylkmjgxffaoar/myfirstApp_Prefix.pch.gch myfirstApp_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s356321240.389149
+e356321241.124819
+r1
+xProcessPCH
+x/var/folders/kG/kGqlNgiJFeCxIZaJ9WRBJ++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myfirstApp_Prefix-azedbrtiqxxuoyeylkmjgxffaoar/myfirstApp_Prefix.pch.gch
+xmyfirstApp_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile myfirstApp_Prefix.pch356321240#356321241#0(0"0(0#0#81"/Users/albert710/Desktop/Programming/Objective C/myfirstApp/myfirstApp_Prefix.pch8601165376#2093"    cd "/Users/albert710/Desktop/Programming/Objective C/myfirstApp"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/albert710/Desktop/Programming/Objective C/myfirstApp/build/myfirstApp.build/Debug-iphonesimulator/myfirstApp.build/myfirstApp-generated-files.hmap" "-I/Users/albert710/Desktop/Programming/Objective C/myfirstApp/build/myfirstApp.build/Debug-iphonesimulator/myfirstApp.build/myfirstApp-own-target-headers.hmap" "-I/Users/albert710/Desktop/Programming/Objective C/myfirstApp/build/myfirstApp.build/Debug-iphonesimulator/myfirstApp.build/myfirstApp-all-target-headers.hmap" -iquote "/Users/albert710/Desktop/Programming/Objective C/myfirstApp/build/myfirstApp.build/Debug-iphonesimulator/myfirstApp.build/myfirstApp-project-headers.hmap" "-F/Users/albert710/Desktop/Programming/Objective C/myfirstApp/build/Debug-iphonesimulator" "-I/Users/albert710/Desktop/Programming/Objective C/myfirstApp/build/Debug-iphonesimulator/include" "-I/Users/albert710/Desktop/Programming/Objective C/myfirstApp/build/myfirstApp.build/Debug-iphonesimulator/myfirstApp.build/DerivedSources/i386" "-I/Users/albert710/Desktop/Programming/Objective C/myfirstApp/build/myfirstApp.build/Debug-iphonesimulator/myfirstApp.build/DerivedSources" -c "/Users/albert710/Desktop/Programming/Objective C/myfirstApp/myfirstApp_Prefix.pch" -o /var/folders/kG/kGqlNgiJFeCxIZaJ9WRBJ++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myfirstApp_Prefix-azedbrtiqxxuoyeylkmjgxffaoar/myfirstApp_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/r4/pv2spbkn3_7g_kb6_kw9td_h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/myfirstApp_Prefix-fegcjsiaibtjqmcosxwykiezzppf/myfirstApp_Prefix.pch.gch myfirstApp_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch "/Users/albert710/Desktop/Programming/Objective C/iOS4/myfirstApp/build/Debug-iphonesimulator/myfirstApp.app"
+r0
+
+CTouch "/Users/albert710/Desktop/Programming/Objective C/myfirstApp/build/Debug-iphonesimulator/myfirstApp.app"
+s356321241.295849
+e356321241.311336
+r1
+xTouch
+x/Users/albert710/Desktop/Programming/Objective C/myfirstApp/build/Debug-iphonesimulator/myfirstApp.app
+lSLF07#2@108"Touch /Users/albert710/Desktop/Programming/Objective C/myfirstApp/build/Debug-iphonesimulator/myfirstApp.app356321241#356321241#0(0"0(0#0#0"8608023232#327"    cd "/Users/albert710/Desktop/Programming/Objective C/myfirstApp"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/albert710/Desktop/Programming/Objective C/myfirstApp/build/Debug-iphonesimulator/myfirstApp.app"0#
+
+CTouch /Users/albert710/Desktop/myfirstApp/build/Debug-iphonesimulator/myfirstApp.app
+s356259099.390741
+e356259099.407809
+r1
+xTouch
+x/Users/albert710/Desktop/myfirstApp/build/Debug-iphonesimulator/myfirstApp.app
+lSLF07#2@84"Touch /Users/albert710/Desktop/myfirstApp/build/Debug-iphonesimulator/myfirstApp.app356259099#356259099#0(0"0(0#0#0"8614448256#275"    cd /Users/albert710/Desktop/myfirstApp    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/albert710/Desktop/myfirstApp/build/Debug-iphonesimulator/myfirstApp.app0#
+

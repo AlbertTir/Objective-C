@@ -1,0 +1,53 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf360
+{\fonttbl\f0\fnil\fcharset0 Menlo-Regular;}
+{\colortbl;\red255\green255\blue255;\red0\green116\blue0;\red100\green56\blue32;\red196\green26\blue22;
+\red170\green13\blue145;\red92\green38\blue153;\red63\green110\blue116;}
+\margl1440\margr1440\vieww9000\viewh8400\viewkind0
+\deftab560
+\pard\tx560\pardeftab560\ql\qnatural\pardirnatural
+
+\f0\fs22 \cf2 \CocoaLigature0 //\cf0 \
+\cf2 //  SimpleCar.h\cf0 \
+\cf2 //  CarApp\cf0 \
+\cf2 //\cf0 \
+\cf2 //  Created by Albert Tirtariyadi on 12-03-04.\cf0 \
+\cf2 //  Copyright 2012 __MyCompanyName__. All rights reserved.\cf0 \
+\cf2 //\cf0 \
+\
+\pard\tx560\pardeftab560\ql\qnatural\pardirnatural
+\cf3 #import \cf4 <Cocoa/Cocoa.h>\cf3 \
+\pard\tx560\pardeftab560\ql\qnatural\pardirnatural
+\cf0 \
+\
+\cf5 @interface\cf0  SimpleCar : NSObject \{\
+	\cf6 NSString\cf0 * \cf7 make\cf0 ;\
+	\cf6 NSString\cf0 * \cf7 model\cf0 ;\
+	\cf6 NSNumber\cf0 * \cf7 vin\cf0 ; \cf2 //vehicle identification number\cf0 \
+\}\
+\
+\cf2 //set methods\cf0 \
+-(\cf5 void\cf0 ) setVin:		(\cf6 NSNumber\cf0 *)newVin; \cf2 //returns void, takes NSNumber as argument\cf0 \
+-(\cf5 void\cf0 ) setMake:	(\cf6 NSString\cf0 *)newMake;\cf2 //returns void, takes NSString as argument\cf0 \
+-(\cf5 void\cf0 ) setModel:	(\cf6 NSString\cf0 *)setModel;\cf2 //returns void, takes NSString as argument\cf0 \
+\cf2 /*\
+the - sign is to tell the system that we are declaring an instance method\
+*/\cf0 \
+\
+\cf2 //convenience method\cf0 \
+-(\cf5 void\cf0 ) setMake:	(\cf6 NSString\cf0 *)newMake\
+		andModel:	(\cf6 NSString\cf0 *)newModel; \cf2 //returns void, but takes in make and model\cf0 \
+\cf2 /*\
+ notice the setMake has no semicolons, letting it carry onto next line \
+and declare another method\
+this is to teach you how to use multiple arguments\
+ */\cf0 \
+\
+\cf2 //get methods, otherwise known as set and get methods, but we drop get to avoid confusion\cf0 \
+-(\cf6 NSString\cf0 *) make;\
+-(\cf6 NSString\cf0 *) model;\
+-(\cf6 NSNumber\cf0 *) vin;\
+\
+\cf2 //with this interface done, we go to our implementations now\cf0 \
+\
+\cf5 @end\cf0 \
+}
